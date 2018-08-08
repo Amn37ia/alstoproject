@@ -2,12 +2,12 @@
 Alchemia Story Guide CRUD base
 
 <b>#Main Features</b><br>
-[v]Point Based User to Anyone who post a guide<br>
-[x]Shop to buy In-game item with point<br>
-[w]Jobs Information<br>
-[x]Guess Board<br>
+<small>[v]</small> Point Based User to Anyone who post a guide<br>
+<small>[x]</small> Shop to buy In-game item with point<br>
+<small>[w]</small> Jobs Information<br>
+<small>[x]</small> Guess Board<br>
 
 <b>#legends</b><br>
-[x] Not implemented yet<br>
-[v] Existed Features<br>
-[w] Under progress<br>
+<small>[x]</small> Not implemented yet<br>
+<small>[v]</small> Existed Features<br>
+<small>[w]</small> Under progress<br>
