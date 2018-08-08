@@ -2,7 +2,7 @@
 Alchemia Story Guide CRUD base
 
 <b>#Main Features</b><br>
-<small>[v]</small> Point Based User to Anyone who post a guide<br>
+<small>[v]</small> Post new Item<br>
 <small>[x]</small> Shop to buy In-game item with point<br>
 <small>[w]</small> Jobs Information<br>
 <small>[x]</small> Guess Board<br>
